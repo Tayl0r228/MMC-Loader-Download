@@ -5,5 +5,5 @@ The **MMC Loader** is an undetectable cheat loader for *Fortnite*, *Roblox*, *GT
 
 - MMC Loader is updated monthly in all supported games to stay ahead of security patches, new versions of the loader will be uploaded so that the cheats still work.
 
-Outdated Loader Photo (new one that shows all updated features coming soon)
-![CMMC Loader](https://github.com/user-attachments/assets/944c0352-e8c6-463e-bdd9-14ed2be1163b)
+(New Updated GUI for V1.1.6)
+![MMC NEW GUI](https://github.com/user-attachments/assets/3d40271a-c9d0-488c-b0a7-817e811c990e)
